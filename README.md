@@ -528,7 +528,7 @@ NetForge bridges the gap between theoretical networking knowledge and practical 
 
 --- 
 
-```
+
 **Usage Instructions **
 <img width="943" height="1030" alt="image" src="https://github.com/user-attachments/assets/4bf50f74-0481-40e3-abf0-ecfb48658298" />
 
@@ -536,7 +536,7 @@ NetForge bridges the gap between theoretical networking knowledge and practical 
 **Successful Packet Capture on Wireshark**
 <img width="1918" height="1008" alt="image" src="https://github.com/user-attachments/assets/02651d5e-4901-4327-9526-6b6fffe8414c" />
 
-```
+
 
 
 **NetForge - Forging the Future of Networking Education**  
