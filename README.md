@@ -2,10 +2,6 @@
 
 **Developed by Yx0R**
 
-![NetForge Banner](https://img.shields.io/badge/NetForge-TCP%2FIP%20Stack-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
-![Platform](https://img.shields.io/badge/Platform-Linux-lightgrey)
-
 ## 🎯 Overview
 
 **NetForge** is a complete, from-scratch implementation of the TCP/IP protocol stack that creates **real network packets** detectable by professional tools like Wireshark. Unlike theoretical implementations, NetForge sends actual Ethernet frames over the network interface, providing hands-on understanding of networking fundamentals.
@@ -530,6 +526,18 @@ NetForge bridges the gap between theoretical networking knowledge and practical 
 
 **This isn't just code - it's a deep dive into the fundamental technology that powers the internet.**
 
----
+--- 
+
+```
+**Usage Instructions **
+<img width="943" height="1030" alt="image" src="https://github.com/user-attachments/assets/4bf50f74-0481-40e3-abf0-ecfb48658298" />
+
+
+**Successful Packet Capture on Wireshark**
+<img width="1918" height="1008" alt="image" src="https://github.com/user-attachments/assets/02651d5e-4901-4327-9526-6b6fffe8414c" />
+
+```
+
+
 **NetForge - Forging the Future of Networking Education**  
 *Developed by Yx0R* 🚀
